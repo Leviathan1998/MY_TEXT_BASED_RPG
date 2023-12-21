@@ -23,7 +23,7 @@ void talking() {
             break;
         }
 
-        cout << "Choose: \n(1) Who are you\n(2) Where are you\n(0) Exit" << endl;
+        cout << "Choose: \n(1) Who are you\n(2) Where are you heading\n(0) Exit" << endl;
 
         int choice;
         cin >> choice;
